@@ -31,8 +31,7 @@ class Site extends CI_Controller
 	
 	function index()
 	{
-		redirect('Site/user_profile');
-		// $this->load->view('welcome_message');
+		$this->load->view('welcome_message');
 	}
 
 	function user_profile($username = null)
