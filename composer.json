@@ -1,0 +1,7 @@
+{
+    "name": "dev/scrape-a-site",
+    "description": "KDCI exam",
+    "type": "project",
+    "license": "None",
+    "require": {}
+}
